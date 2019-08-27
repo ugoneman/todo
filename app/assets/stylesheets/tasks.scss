@@ -352,7 +352,7 @@ html .clear-completed:active {
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   .toggle-all,
   .todo-list li .toggle {
-    background: none;
+    background: gray;
   }
 
   .todo-list li .toggle {
